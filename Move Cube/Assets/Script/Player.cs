@@ -37,4 +37,5 @@ public class Player : MonoBehaviour
             rb2d.AddForce(Vector2.up * jump);
         }
     }
+    // co loi khi pull ve.ben may a ko thay con player.
 }
